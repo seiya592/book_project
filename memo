@@ -1,0 +1,40 @@
+■Emmetを使いこなす
+Emmet: Variablesの
+項目：langを値：jaに設定する
+
+■Emmmetのラップ機能
+とりあえずCtrl＋Alt＋Eに割り当て
+ショートカットで emmet wrap で調べれば出る
+https://internship.taneppa.net/kitadani/archives/260/
+
+■HTMLタグを調べるとき
+https://developer.mozilla.org/ja/docs/Web
+
+
+■Djangoのシェル実行
+https://qiita.com/akis1215/items/aa7169e84112a8fab6fc
+実践Django　P.26
+
+■Jinja2 Snippet Kitを使う
+
+■ダウンロード版Bootstrap設定方法
+https://allneko.club/django/bootstrap/
+
+
+～～～～～～～～～～～～勉強すること～～～～～～～～～～～～～～～～～～～～～～～～～～～
+■HTTPメソッドを理解する
+HTTPメソッドを正しくハンドリングする
+実践Django P.46
+
+
+
+～～～～～～～～～～～～～～VSCode拡張～～～～～～～～～～～～～～～～～～～
+Auto　Rename　Tag
+Jinja2　Snippet　Kit
+SQLite　Viewer
+Bootstrap 5 Quick Snippet
+HTML CSS Support
+indent-rainbow
+Live Server
+
+
